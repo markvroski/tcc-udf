@@ -1,6 +1,8 @@
 <b>Trabalho de Conclusão de Curso (TCC)</b>
 
-Alunos: Marcus Vinicius Lopes de Araujo <br>
+Alunos: 
+
+Marcus Vinicius Lopes de Araujo <br>
 Vitor Gabriel <br>
 Kassio <br>
 

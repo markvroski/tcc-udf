@@ -1,4 +1,4 @@
-Trabalho de Conclusão de Curso (TCC)
+<b>Trabalho de Conclusão de Curso (TCC)</b>
 
 Alunos: Marcus Vinicius Lopes de Araujo
        Vitor Gabriel

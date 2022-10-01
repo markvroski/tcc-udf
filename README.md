@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.udf.edu.br/" target="_blank"><img src="https://cruzeirodosulcorporativa.com.br/wp-content/uploads/2021/04/udf.png" width="400"></a></p>
+<p align="left"><a href="https://www.udf.edu.br/" target="_blank"><img src="https://cruzeirodosulcorporativa.com.br/wp-content/uploads/2021/04/udf.png" width="200"></a></p>
 
 <b>Centro Universitário Do Distrito Federal – UDF Coordenação Do Curso De Sistemas De Informação (TCC)</b>
 

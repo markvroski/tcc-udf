@@ -36,7 +36,5 @@
         <p>O nome não é Pedro</p>
         @endif
 
-        te
-
     </body>
 </html>

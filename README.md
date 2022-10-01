@@ -6,7 +6,7 @@ Marcus Vinicius Lopes de Araujo <br>
 Kassio Winicius Marinho da Silva <br>
 Vitor Gabriel da Silva <br>
 
-Orientador: Me. Eliel Silva da Cruz
+Orientador: Me. Eliel da Silva Cruz
 
 <hr>
 

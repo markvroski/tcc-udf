@@ -1,4 +1,4 @@
-<br> <b>Trabalho de Conclusão de Curso (TCC)</b>
+<br> <b>ENTRO UNIVERSITÁRIO DO DISTRITO FEDERAL – UDF COORDENAÇÃO DO CURSO DE SISTEMAS DE INFORMAÇÃO (TCC)</b>
 
 Alunos: 
 

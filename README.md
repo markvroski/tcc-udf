@@ -1,7 +1,7 @@
-<br> <b>Centro Universitário Do Distrito Federal – UDF Coordenação Do Curso De Sistemas De Informação (TCC)</b>
+<b>Centro Universitário Do Distrito Federal – UDF Coordenação Do Curso De Sistemas De Informação (TCC)</b>
 
 
-Sistema De Gerenciamento Para Eventos Acadêmicos (Gea)
+<b>Sistema De Gerenciamento Para Eventos Acadêmicos (GEA)</b>
 
 
 Alunos: 

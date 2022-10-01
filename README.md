@@ -2,9 +2,9 @@
 
 Alunos: 
 
-Marcus Vinicius Lopes de Araujo <br>
-Kassio Winicius Marinho da Silva <br>
-Vitor Gabriel da Silva <br>
+Marcus Vinicius Lopes de Araujo 20695217 <br>
+Kassio Winicius Marinho da Silva 20695632 <br>
+Vitor Gabriel da Silva 20695179 <br>
 
 Orientador: Me. Eliel da Silva Cruz
 
